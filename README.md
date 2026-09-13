@@ -1,4 +1,4 @@
-C++ + Visual Studio + Windows API (Win32 API, IP Helper, Winsock)
+Visual Studio + C++ + Windows API (Win32 API, IP Helper, Winsock)
 <img width="1919" height="1026" alt="구조" src="https://github.com/user-attachments/assets/7cc15b02-1b2f-442f-ad67-ddc3e899b02c" /><br><br>
 
 네트워크 정보 (ws2_32.lib), Windows OS 마스터 (windows.h), IP 버전 독립적 네트워크 기능 (ws2tcpip.h), 차세대 네트워크 인터페이스 API (netioapi.h)<br><br>
